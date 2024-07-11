@@ -2,7 +2,7 @@
 
 This project is a React-based frontend application for displaying job listings. It provides a clean and responsive user interface for viewing and interacting with job postings.
 
-![Homepage](src/assets/images/Screenshot 2024-07-12 000757.png)
+<img src="https://github.com/DevG06/react-job-listings-frontend/blob/master/src/assets/images/Screenshot%202024-07-12%20000757.png" alt="Homepage">
 
 ## Features
 
